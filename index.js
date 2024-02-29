@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DM do kontaktu z Zarządem","Słucha dzwięków samochodów","Przegląda katalog"];
+const statusMessages = ["W grze Three Hawkers Boys"];
 
 
 let currentIndex = 0;
