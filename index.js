@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Wpierdala Grande Kebabe"];
+const statusMessages = ["W grze Grande Kebabe"];
 
 
 let currentIndex = 0;
